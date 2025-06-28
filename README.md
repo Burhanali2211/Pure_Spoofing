@@ -32,7 +32,7 @@ Be *very careful* when choosing your drive during installation. If you choose th
 ```bash
 git clone https://github.com/Burhanali2211/pure_spoof.git
 cd pure_spoof
-
+```
 ###2️⃣ Create a live Linux installer
 Download the ISO (e.g. Linux Mint 21.3 Cinnamon 64-bit):
 https://linuxmint.com/download.php
@@ -49,7 +49,7 @@ Open terminal:
 
 ```bash
 sudo gparted
-
+```
 In GParted:
 
 Select your external SSD (⚠ double-check it’s the correct device)
