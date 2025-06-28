@@ -28,23 +28,23 @@ Be *very careful* when choosing your drive during installation. If you choose th
 
 ## 📝 **Installation steps**
 
-### 1️⃣ Clone this repository  
+### 1️⃣ **Clone this repository**  
 ```bash
 git clone https://github.com/Burhanali2211/pure_spoof.git
 cd pure_spoof
 ```
-###2️⃣ Create a live Linux installer
+###2️⃣ **Create a live Linux installer**
 Download the ISO (e.g. Linux Mint 21.3 Cinnamon 64-bit):
 https://linuxmint.com/download.php
 
 Use a tool like Rufus, Ventoy, or balenaEtcher to write the ISO to a USB stick
 
-###3️⃣ Boot into the live Linux environment
+###3️⃣ **Boot into the live Linux environment**
 Insert the live USB and reboot your machine
 Enter the BIOS/boot menu (often F12, F10, or Esc)
 Choose the USB stick as boot device
 
-###4️⃣ Prepare your external SSD
+###4️⃣ **Prepare your external SSD**
 Open terminal:
 
 ```bash
